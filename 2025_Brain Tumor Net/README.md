@@ -1,5 +1,11 @@
 # Brain Tumor Net - AI-Powered Brain Tumor Detection
 
+### Authors
+- Evan Santosa
+- Alexander Brian Susanto
+- Kelson
+- Danica Jessey Satria
+
 ### Project Description
 Brain Tumor Net is an AI-powered web based application designed to assist the early detection of brain tumor from medical imaging data. It utilizes a deep learning model to analyze MRI scans and provide classification results, helping patients and healthcare professionals gain clearer insights into brain healths.
 
