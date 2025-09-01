@@ -1,0 +1,15 @@
+
+__pycache__/database.cpython-313.pyc
+__pycache__/main.cpython-312.pyc
+__pycache__/main.cpython-312.pyc
+__pycache__/main.cpython-312.pyc
+__pycache__/predict.cpython-312.pyc
+models/__pycache__/models.cpython-313.pyc
+__pycache__/main.cpython-312.pyc
+/__pycache__
+
+.vercel
+*.pyc
+__pycache__/
+*.pyc
+*.pyo

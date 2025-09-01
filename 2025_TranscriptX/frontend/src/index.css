@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		font-family: 'IBM Plex Sans';
+        margin: 0;
+	}
+
+    input[type="file"]::-webkit-file-upload-button {
+        display: none;
+    }
+
+    input[type="file"]::file-selector-button {
+        display: none; /* Firefox */
+    }
+}
+
+@theme {
+    --color-*: initial;
+    --color-color_primary: #F9FAFB;
+    --color-color_secondary: #E5E7EB;
+    --color-grey: #C7C8CC;
+    --color-dark_grey: #B1B1B1;
+    --color-dark_grey_2: #808080;
+    --color-biru: #305CDE;
+    --color-biru_2: #002697;
+    --color-black: #000000;
+    --color-light_red: #FFCCCB;
+    --color-pop: #D9D9D9;
+    --color-ijo: #34C759;
+    --color-ijoHover: #1F7E37;
+    --color-darker_grey: #7D7880;
+    --color-pinky: #ea348b;
+    --color-white: #ffffff;
+    --color-light_pinky: #f072ae;
+    --color-biru_muda: #32ADE6;
+    --color-minty: #00C7BE;
+    --color-dark_red: #ef5252;
+    --color-kuning: #FFCC00;
+    --color-darker_red: #cd0000;
+    --color-jingga: #FF9500;
+    --color-jingga_hover: #b66a00;
+    --color-minty_dark: #00837d;
+    --color-kuning_dark: #9c7d00;
+
+    --font-weight-*: initial;
+    --font-weight-bold: 700;
+    --font-weight-semibold: 500;
+
+    --font-style-&: initial;
+    --font-sans: 'IBM Plex Sans', "sans-serif";
+
+    --animate-spin: spin 1s ease-in-out infinite;
+
+    @keyframes spin{
+        0%{
+            transform: rotate(-360deg);
+        }
+    }
+}
+
+

@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		font-family: 'Poppins';
+        margin: 0;
+        background-color: rgb(30, 30, 30);
+        color: white;
+	}
+
+    button {
+        font-family: 'Poppins';
+    }
+
+    input[type="file"]::-webkit-file-upload-button {
+        display: none;
+    } */
+
+    input[type="file"]::file-selector-button {
+        display: none; 
+    }
+}
+
+@theme {
+    --color-*: initial;
+    --color-grey: #787878;
+    --color-light_grey: #b8b8b8;
+    --color-dark_grey: #2e2e2e;
+    --color-darker_grey: #1c1c1c;
+    --color-light_black: rgb(34, 34, 34);
+    --color-lighter_black: rgb(40, 40, 40);
+    --color-background: rgb(30, 30, 30);
+    --color-ijo: #13cc57;
+    --color-light_ijo: #dcfce7;
+    --color-light_red: #fee2e2;
+    --color-biru: rgb(0, 80, 190);
+    /* --color-darker_biru: #0051A2; */
+    --color-darker_biru: rgb(0, 40, 150);
+
+    --breakpoint-*: initial;
+    --breakpoint-phone: 20rem;
+    --breakpoint-laptop: 64rem;
+    --breakpoint-desktop: 80rem;
+
+    --animate-spin: spin 1s ease-in-out infinite;
+
+    @keyframes spin{
+        0%{
+            transform: rotate(-360deg);
+        }
+    }
+}

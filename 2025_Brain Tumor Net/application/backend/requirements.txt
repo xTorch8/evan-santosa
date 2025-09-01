@@ -1,0 +1,9 @@
+gradio>=4.31,<5
+numpy==1.26.4
+timm==1.0.15
+torch==2.6.0
+torchvision==0.21.0
+tensorflow
+keras==3.9.2
+pillow==10.4.0
+scikit-image==0.25.2
