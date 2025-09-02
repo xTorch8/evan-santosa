@@ -9,7 +9,6 @@ This is a collection of projects that showcase my work as a **Developer** and **
 - TranscriptX (2025)
 - Brain Tumor Net (2025)
 - HydroSense (2024)
-- eFaktur (2024)
 
 ### Data Analysis
 - Analysis of TKDD and HDI Across Provinces in Indonesia (2025) 
@@ -27,9 +26,9 @@ This is a collection of projects that showcase my work as a **Developer** and **
 
 ## 🛠️ Tech Stack
 Some of the technologies I use across these projects:
-- **Language**: Python, JavaScript, TypeScript, Dart, SQL
+- **Language**: Python, JavaScript, TypeScript, SQL
 - **Framework and Libraries**: FastAPI, Gradio, React, TailwindCSS, Numpy, Pandas, Matplotlib, Seaborn, Streamlit, Scikit-learn, TensorFlow, PyTorch, Transformer
-- **Databases**: MySQL, SQLite
+- **Databases**: MySQL
 - **Tools**: Git, Visual Studio Code, Roboflow
 
 ## 📫 Contact
