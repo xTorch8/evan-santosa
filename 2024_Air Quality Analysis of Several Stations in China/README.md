@@ -13,8 +13,11 @@ Air pollution remains one of the most pressing environmental challenges in China
 - Dataset
     - Air Quality dataset
 - Data Preprocessing
-    - 
+    - Handling missing values
 - Analysis Techniques
+    - Grouping and aggregation
+    - Correlation
+    - Domain knowledge
 
 ### Key Insights
 - Dingling and Huairou stations consistently record the best air quality, while Dongsi, Dongzhanguan, and Wanshouxigong are among the most polluted.
