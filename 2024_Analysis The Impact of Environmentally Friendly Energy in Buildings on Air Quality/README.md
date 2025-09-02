@@ -17,7 +17,8 @@ The rapid growth of urbanization and industrialization has lead to an increasing
 - Data Preprocessing
     - Handling missing values
     - Handling duplicate values
-- Data Analysis
+    - Normalization
+- Analysis Techniques
     - Grouping and aggregation
     - Correlation
     - Domain knowledge
