@@ -11,7 +11,8 @@ This is a collection of projects that showcase my work as a **Developer** and **
 - HydroSense (2024)
 
 ### Data Analysis
-- Analysis of TKDD and HDI Across Provinces in Indonesia (2025) 
+- Analysis of TKDD and HDI Across Provinces in Indonesia (2025)
+- Public Transport Analysis and Optimization in Jakarta (2025) 
 - Analysis The Impact of Environmentally Friendly Energy in Buildings on Air Quality (2024)
 - Air Quality Analysis of Several Stations in China (2024)
 
@@ -21,6 +22,7 @@ This is a collection of projects that showcase my work as a **Developer** and **
 - Indonesian Audio Transcription Using Ensemble Stacking (2025)
 - Cardboard Box Defect Detection Using Ensemble Stacking (2025)
 - Indonesian Road Damage Detection Using TTA (2025)
+- Public Transport Analysis and Optimization in Jakarta (2025)
 - HydroSense (2024)
 
 
